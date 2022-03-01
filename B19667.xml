@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for prohibiting the imbezlement of His Majesties stores for shipping.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19667</idno>
+            <idno type="STC">Wing C3376</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[163]</idno>
+            <idno type="STC">ESTC R214924</idno>
+            <idno type="STC">ESTC R226626</idno>
+            <idno type="EEBO-CITATION">99884455</idno>
+            <idno type="PROQUEST">ocm99884455</idno>
+            <idno type="VID">188317</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B19667)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188317)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[163])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for prohibiting the imbezlement of His Majesties stores for shipping.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685. aut</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Bill and Christopher Barker, printers to the King's most Excellent Majesty,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661. At the King's Printing-House in Black-Friers]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: ... Whitehall, the nineteenth day of November 1661.</note>
+                  <note>Arms 66; Steele notation: for  make  2) after  in-.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188317:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <p>HONI · SOIT · QVI · MAL · Y · PENSE</p>
+                  <p>DIEV · ET · MON · DROIT</p>
+               </figure> By the King. A PROCLAMATION FOR Prohibiting the Imbezlement of His Majeſties Stores for Shipping.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas notwithſtanding divers good Laws made and Enacted for the preventing of the Stealth and Imbezlement of His Maje<g ref="char:EOLhyphen"/>ſties Stores of War, and for the puniſhing the ſame, His Maje<g ref="char:EOLhyphen"/>ſtie findes by experience, that whether by the negligence or un<g ref="char:EOLhyphen"/>faithfulneſs of His Officers, or through difficulty of the work, thoſe Frauds, Stealths, and Imbezlements are not prevented (as they ought) but are daily practiſed, particularly in Stores relating to the Navy, not only to the great prejudice of His Ma<g ref="char:EOLhyphen"/>jeſties Service, but likewiſe to the hindrance and diſcourage<g ref="char:EOLhyphen"/>ment of ſuch Tradeſmen, whoſe profeſſion and livelihood it is to make and ſell ſuch Stores and Commodities to Merchants Ships; who finding a cheaper way for furniſhing their Ships, by buying the Stores pur<g ref="char:EOLhyphen"/>loyned and imbezled, as aforeſaid, decline the lawful ſellers of ſuch like Proviſions. For the preventing theſe and the like abuſes for the future, His Majeſty is pleaſed hereby ſtrictly to Charge and Command all His Officers, not only to endeavour the diſcovery of the ſaid abuſes (as aforeſaid) but alſo ſtrictly to proſecute the perſons offending, according to the rigour of the Laws in ſuch caſes provided. And for the more eaſie diſcovery of the ſame, and to the end the receivers of ſuch ſtolen Goods may not pretend ignorance, His Ma<g ref="char:EOLhyphen"/>jeſty doth hereby Command, Publiſh and Declare, That all the Rope-makers who ſhall hereafter work in His Majeſties Yards, or ſhall elſewhere make any ſort of Cordage for the uſe of His Majeſties Navy, ſhall make the ſame in manner following <hi>(viz.)</hi> All Cables, Hawſers, and other Cordage of the larger ſort, ſhall be wrought with one ſmall hair-line through every ſtrand thereof; all Coyls of ſmaller Cordage ſhall have two ſtrands compoſ<g ref="char:EOLhyphen"/>ed of even threads, and the third ſhall have one odd thread. The Sail-makers, working for the uſe of His Majeſties Navy, ſhall table the Sail with white Twine, whereby they ſhall be diſtinguiſhed from ſuch as are made for the uſe of Merchants Ships. And for pre<g ref="char:EOLhyphen"/>venting the abuſe which hath been of late practiſed concerning Flags, Pendents, and other Ornaments, His Majeſty doth hereby ſtrictly prohibit and forbid the uſe of His Majeſties Colours in Merchants Ships, and doth Authorize and Command all Commanders and Officers of any His Majeſties Ships of War, not only to take from Merchants Ships all ſuch Colours, but likewiſe to ſeize the Commander of ſuch Merchant-Ships wherein after the Firſt day of <hi>April</hi> next they ſhall be uſed, and to bring them to condign puniſhment. And His Majeſty hath appointed that the Flags, Iacks and Pendents of His Majeſties Ships ſhall henceforth be made of Red, White, and Blew, to the end the Offenders herein may not pretend ignorance or miſtake. And His Majeſty doth further Command, That on all other Stores, where it may be done without prejudice to the ſaid Stores, or Charge to His Majeſty, as Nails, Spikes, and other the like Stores, That the broad Arrow be put on ſome part of the ſame, whether by Stamp, Brand, or other way, as ſhall be par<g ref="char:EOLhyphen"/>ticularly directed by the Principal Officers and Commiſſioners of His Majeſties Navy, to whom the care thereof is committed. And His Majeſty doth hereby forbid all Artificers to make any Stores or Proviſions ſo marked, except for the uſe of His Majeſties Navy; and doth likewiſe hereby Command all His Majeſties loving Subjects, that they forbear to buy or receive from any perſon whatſoever, any Stores marked as aforeſaid (without particu<g ref="char:EOLhyphen"/>lar order and leave from the Principal Officers and Commiſſioners of His Majeſties Na<g ref="char:EOLhyphen"/>vy) upon pain of being proceeded againſt as Receivers of ſtolen Goods, and as Imbezlers of His Majeſties Stores. And to the end that His Majeſties Officers may not be negligent in the performance hereof, or for any indirect conſiderations omit to place and affix the marks and diſtinctions, as is above, or ſhall be hereafter directed, His Majeſty doth recom<g ref="char:EOLhyphen"/>mend it to the care of His moſt dear and entirely beloved Brother, <hi>James</hi> Duke of <hi>York,</hi> His High Admiral, that ſuch Officers or Workmen who ſhall neglect or diſobey the Directi<g ref="char:EOLhyphen"/>ons herein contained, be diſcharged from their Imployments, and be further puniſhed as their offence ſhall deſerve. And for the better diſcovery of ſuch as ſhall notwithſtanding this His Majeſties Proclamation, Imbezle any of His Stores as aforeſaid, His Majeſty is pleaſed to Declare, That any perſon who ſhall diſcover to the Principal Officers and Commiſſioners of His Navy, any Cordage, Iron-work, or other Stores imbezled or pur<g ref="char:EOLhyphen"/>loyned out of His Majeſties Yards, Stores, or Ships, ſhall receive as a reward and encou<g ref="char:EOLhyphen"/>ragement for ſuch his diſcovery, one full third part of the value of ſuch Stores ſo diſcover<g ref="char:EOLhyphen"/>ed; Provided that he likewiſe diſcover either the Imbezler and Purloyner of them, or at leaſt the Receiver of the ſame. And for the better and more certain publiſhing the Marks which are not herein particularly ſpecified, His Majeſty doth hereby enjoyn the Principal Officers and Commiſſioners of His Majeſties Navy, with all convenient ſpeed to cauſe Patterns of them to be ſent to Shipwrights and Ironmongers Hall reſpectively, there to remain for the in<g ref="char:EOLhyphen"/>formation of ſuch as are concerned in the knowledge thereof.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Whitehall,</hi>
+                  </hi>
+                  <date>
+                     <hi>the Nineteenth day of <hi>November</hi> 1661. in the Thirteenth year of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the KING'S moſt Excellent Majeſty, 1661.</p>
+            <p>At the KING'S Printing-Houſe in <hi>Black-Friers.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
